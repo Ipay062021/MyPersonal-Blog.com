@@ -1,0 +1,75 @@
+<html>
+<head>
+    <title>PERSONAL BLOG</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+    margin: 0;
+    padding: 0;
+    background: url(lofi.jpg) no-repeat;
+    background-size: cover;
+}
+.box {
+    width: 450px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 25px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.box-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.box h1 {
+    font-size: 40px;
+    font-weight: 100;
+}
+.box h5 {
+    font-size: 25px;
+}
+.Div1 {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    padding: 5px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 2%;
+    
+}
+.Div1 h1 {
+    font-size: 40px;
+    font-weight: 100;
+}
+.Div1 p {
+    text-align: center;
+    font-size: 20px;
+}
+    </style>
+</head>
+<body>
+    <div class="box">
+        <img src="Profile.jpg" class="box-img">
+        <h1>Christian Reunir Cabales</h1>
+        <h2>CAST-BATCH 6</h2>
+        <h5>Hi Guys Welcome to My First Personal Blog</h5>
+    </div>
+    <br>
+    <div class="Div1">
+        <h1>Let Me Introduce Myself</h1>
+        <p>I'm Christian Reunir Cabales my age is 21 years old and my birthdate is December 31,2001. i live in Albasan, Numancia, Aklan my hobby is playing sepak takraw, watching anime or movies, sleeping, eating, and self study of all about Computers.</p>
+        <h1>This is Me:Christian</h1>
+        <p>I'am a streamer and content creator before of Rules of Survival Game in Facebook and YouTube but my facebook page was hacked so my youtube channel is the only thing left as memories for me, this is my YouTube Channel you can click it right here <a href="https://www.youtube.com/channel/UCNYWNYwQ40fYRJgk5HKK8Iw">VerifyGamingYt</a> thankyou. my talent is to repair computers or build computers but I still need a lot of experience and knowledge and that's my First personal blog Thankyou!.</p>
+    </div>
+    <br>
+    <img src="Facebook.jpg" style="width: 550px;height:350px;margin-left: 6.5%;border-radius: 5%;margin-top: 2%;">
+    <img src="zerotwo.gif" style="width: 300px;height:350px;margin-left: 4%;">
+    <img src="YouTube.jpg" style="width: 558px;height: 350px;margin-left: 6.5%;border-radius: 5%;">
+</body>
+</html>
